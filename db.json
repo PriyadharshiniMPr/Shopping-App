@@ -1,0 +1,295 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gilr baby Dress",
+      "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+      "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "name": "Gilr baby Dress",
+      "description": "Varieties of clothes are inexhaustible, from cotton, light- colored clothes in summers to the woolen, furry jackets and sweaters in the winters",
+      "imageUrl": "https://i.pinimg.com/originals/6b/a3/d3/6ba3d3444ce1b9e90ee282d42b338116.jpg",
+      "price": 331
+    },
+    {
+      "id": 3,
+      "name": "Gilr baby Dress",
+      "description": "Even different regions have their own indigenous clothing, the extremity of which is evident in India itself",
+      "imageUrl": "https://5.imimg.com/data5/GP/JY/MY-9580141/pink-flower-girl-wedding-dress-500x500.jpg",
+      "price": 999
+    },
+    {
+      "id": 4,
+      "name": "Gilr baby Dress",
+      "description": "Clothes have an eminent role to play and the proof can be statistically claimed with the burgeoning number of customers attracted by a small garment",
+      "imageUrl": "https://i.pinimg.com/originals/13/0a/c1/130ac14f730931b7cd5b0299562d9bc7.jpg",
+      "price": 499
+    },
+    {
+      "id": 5,
+      "name": "Gilr baby Dress",
+      "description": "nylon and cotton to silk, Clothes are one of the Indispensable necessities for the survival of humankind, which defies any classification",
+      "imageUrl": "https://hunyhuny.com/3131-large_default/dress-tees-top-pant-cap-newborn-infant-toddler-blue-sleeveless.jpg",
+      "price": 599
+    },
+    {
+      "id": 6,
+      "name": "Gilr baby Dress",
+      "description": "Clothes have an eminent role to play and the proof can be statistically claimed with the burgeoning number of customers attracted by a small garment",
+      "imageUrl": "https://hunyhuny.com/3430-large_default/top-pant-skirt-style-dress-newborn-infant-toddler-maroon-white-sleeveless.jpg",
+      "price": 899
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Gilr baby Dress",
+        "description": "Varieties of clothes are inexhaustible, from cotton, light- colored clothes in summers to the woolen, furry jackets and sweaters in the winters",
+        "imageUrl": "https://i.pinimg.com/originals/6b/a3/d3/6ba3d3444ce1b9e90ee282d42b338116.jpg",
+        "price": 331
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Gilr baby Dress",
+        "description": "Clothes have an eminent role to play and the proof can be statistically claimed with the burgeoning number of customers attracted by a small garment",
+        "imageUrl": "https://hunyhuny.com/3430-large_default/top-pant-skirt-style-dress-newborn-infant-toddler-maroon-white-sleeveless.jpg",
+        "price": 899
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Gilr baby Dress",
+        "description": "Varieties of clothes are inexhaustible, from cotton, light- colored clothes in summers to the woolen, furry jackets and sweaters in the winters",
+        "imageUrl": "https://i.pinimg.com/originals/6b/a3/d3/6ba3d3444ce1b9e90ee282d42b338116.jpg",
+        "price": 331
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Gilr baby Dress",
+        "description": "Even different regions have their own indigenous clothing, the extremity of which is evident in India itself",
+        "imageUrl": "https://5.imimg.com/data5/GP/JY/MY-9580141/pink-flower-girl-wedding-dress-500x500.jpg",
+        "price": 999
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Gilr baby Dress",
+        "description": "Varieties of clothes are inexhaustible, from cotton, light- colored clothes in summers to the woolen, furry jackets and sweaters in the winters",
+        "imageUrl": "https://i.pinimg.com/originals/6b/a3/d3/6ba3d3444ce1b9e90ee282d42b338116.jpg",
+        "price": 331
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Gilr baby Dress",
+        "description": "Varieties of clothes are inexhaustible, from cotton, light- colored clothes in summers to the woolen, furry jackets and sweaters in the winters",
+        "imageUrl": "https://i.pinimg.com/originals/6b/a3/d3/6ba3d3444ce1b9e90ee282d42b338116.jpg",
+        "price": 331
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Gilr baby Dress",
+        "description": "Varieties of clothes are inexhaustible, from cotton, light- colored clothes in summers to the woolen, furry jackets and sweaters in the winters",
+        "imageUrl": "https://i.pinimg.com/originals/6b/a3/d3/6ba3d3444ce1b9e90ee282d42b338116.jpg",
+        "price": 331
+      },
+      "id": 20
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Gilr baby Dress",
+        "description": "Clothes have an eminent role to play and the proof can be statistically claimed with the burgeoning number of customers attracted by a small garment",
+        "imageUrl": "https://hunyhuny.com/3430-large_default/top-pant-skirt-style-dress-newborn-infant-toddler-maroon-white-sleeveless.jpg",
+        "price": 899
+      },
+      "id": 21
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Gilr baby Dress",
+        "description": "nylon and cotton to silk, Clothes are one of the Indispensable necessities for the survival of humankind, which defies any classification",
+        "imageUrl": "https://hunyhuny.com/3131-large_default/dress-tees-top-pant-cap-newborn-infant-toddler-blue-sleeveless.jpg",
+        "price": 599
+      },
+      "id": 22
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Gilr baby Dress",
+        "description": "Available in indefinite sizes, small, large and extra-large, with fabrics ranging from khadi to nylon and cotton to silk,",
+        "imageUrl": "https://static.hopscotch.in/fstatic/product/201808/5b0ef4fa-2c30-4d20-bead-1c98fc9f206e_large.jpg?version=1534859594242&tr=w-480,c-at_max,n-normal",
+        "price": 899
+      },
+      "id": 23
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Gilr baby Dress",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
